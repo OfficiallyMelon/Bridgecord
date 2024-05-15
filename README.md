@@ -15,3 +15,6 @@ Bridgecord is an ongoing project aimed at creating a seamless communication brid
 ### Role Synchronization: Sync user roles and permissions between Guilded and Discord.
 ### Advanced Filters: Custom filters to manage and moderate relayed messages.
 ### Logging: Comprehensive logging for monitoring and debugging.
+
+# How does it work?
+Bridgecord uses the Guilded.gg & Discord.py API, we simply hook up a websocket to guilded, use a discord bot to read & send messages. All locally hosted within any device with python & pip!
