@@ -1,5 +1,7 @@
-#Bridgecord
-What is Bridgecord?
+# Bridgecord
+
+## What is Bridgecord?
+
 Bridgecord is an ambitious and ongoing project designed to create a seamless communication bridge between Guilded and Discord. This innovative bot facilitates the exchange of messages between Discord and Guilded servers, ensuring synchronized communication across both platforms.
 
 ## Key Features
